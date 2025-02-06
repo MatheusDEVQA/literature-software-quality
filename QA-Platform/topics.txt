@@ -1,0 +1,28 @@
+
+1.REGRSSIVOS:
+    qual ferramenta de registro
+    processos de execução e manutenção
+    qualidade dos testes para impedir teoria do pesticida
+
+
+2.VIRTUALIZAÇÃO
+    resiliência dos testes sem dependência de terceiros
+
+3.PERFORMANCE
+    Garantir SLAs
+    Escalabilidade
+    Diminuir gargalos
+
+4.AUTOMAÇÃO 
+    Qual ferramenta utilizar
+    integração com devops
+    registro de resultados
+    armazenamento de dados para métricas
+
+5.MÉTRICAS DE QUALIDADES
+    Cada etapa do sdlc ser capturado dados e criar um histórico de padrões
+    podemos utilizar como apoio para decisão de deploy
+
+6.PROCESSOS 
+    Etapas de testes e quando realizar o tipo de testes
+    
