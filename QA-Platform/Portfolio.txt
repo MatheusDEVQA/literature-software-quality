@@ -1,0 +1,21 @@
+SERVIÇOS:
+
+1. Análise de maturidade e plano de evolução
+
+2.Ciração e implatação de processos, gerenciar a qualidade, automação evolução da maturidade.
+
+3.Ferramentas que auxilia na aceleração de automação em toda a piramide tipos de aplicações.
+
+4.Processos de testes não-funcionais, para garatir a qualidade como um todo.
+
+5.Implementar IAs para axelerar e dar produtividade em trabalhos repetivivos e  criativos.
+
+6.Testes continuos em pipelines e adequadas a multiclouds.
+
+7.Implementação de conceitos de normas de qualidade de desenvolvimento de software.
+
+8.Inovação, processos com as melhoras práticas do mercado que se adequem a cultura e capacidade dos times.
+
+9.Trabalhar com escalabilidade e flexibilidade com um núcleo especializado.
+
+10.Capcitação e treinamento de pessoas.
