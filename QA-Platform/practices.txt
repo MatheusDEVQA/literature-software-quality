@@ -16,3 +16,5 @@ CULTURA DE QUALIDADE COM O TIME:
     capacitação de gestão de conhecimento    
 
 
+5.Atuações pos deploy
+    monitoramneto de bugs e pos morten
