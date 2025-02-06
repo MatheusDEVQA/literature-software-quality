@@ -1,0 +1,16 @@
+
+CULTURA DE QUALIDADE COM O TIME:
+
+1.Avaliar dificulades do time em todo o processo existente.
+
+2.Avaliar um novo processo ou coninuar com o mesmo e quais merecem maior investimento.
+
+3.Planejar como metrificar a evolução das decisões anteriores.
+
+4.Ordem de implantação:
+    metodologia, processos de testes
+    automação
+    gestçao de dados de testes
+    performance
+    virtualização de SERVIÇOS
+    capacitação de gestão de conhecimento    
